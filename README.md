@@ -1,3 +1,5 @@
+#### Here we have an example of implementing the SOLID design pattern with .NET 6.
+
 # SOLID 
 
 SOLID is a popular set of design principles that are used in object-oriented software development. SOLID is an acronym that stands for five key design principles: single responsibility principle, open-closed principle, Liskov substitution principle, interface segregation principle, and dependency inversion principle. All five are commonly used by software engineers and provide some important benefits for developers.
